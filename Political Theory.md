@@ -64,11 +64,11 @@ Virtue: (moral philosophy, Nicomachean Ethics) An acquired human quality the pos
 
 ### Communitarianism
 
-> I think, therefore I am. Descartes Cogito 
+> I think, therefore I am.                     -----  Rene Descartes Cogito (1596-1650)
 
--- all about me, me, me, The individual was the centre of Enlightenment story.
+All about me, me, me, The individual was the centre of Enlightenment story.
 
-I am because we are, and since we are, therefore I am
+> I am because we are, and since we are, therefore I am      ----John S. MBiti, Ubuntu alternative  
 
 
 

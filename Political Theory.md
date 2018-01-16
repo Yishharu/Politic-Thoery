@@ -72,7 +72,7 @@ All about me, me, me, The individual was the centre of Enlightenment story.
 
 Only discover your identity by reference to you group into which you were born and see that group perceives your identity. Group and community comes before, defines the individual.
 
-** Hope Ubantu wasn't corrupted by the Enlightenment project !!! **
+**Hope Ubantu wasn't corrupted by the Enlightenment project !!!**
 
 
 

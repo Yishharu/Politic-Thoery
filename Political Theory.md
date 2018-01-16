@@ -62,9 +62,11 @@ Practice: Any coherent and complex form of socially established cooperative huma
 
 Virtue: (moral philosophy, Nicomachean Ethics) An acquired human quality the possession and exercise of which tends to enable us to achieve those goods which are internal to practices and the lack of which effectively prevents us from achieving any such good. —After virtue. （Pitcher’s Pitch; Hegel, The Phenomenology of Spirit, where he talks about different social forms of social orgnizatins, etc master slave society unstable, master dissatisfying wants recognition from sb regards as equal, as sb worth getting recognition from, master not from slaves. Be affirmed by people we value, and we would value within a practice cuz they understand them inside.）Virtues are embedded in practices, in order to understand and do well, we respect those goods, subordinate to the practices and excel. (Who set the virtues up? Nobody, we are by natural constitution, historical creatures, we start from where we are, we don’t start from some magical choice about where we would like to go)
 
-###Communitarianism
+### Communitarianism
 
-I think, therefore I am. Descartes Cogito --all about me, me, me, The individual was the centre of Enlightenment story.
+> I think, therefore I am. Descartes Cogito 
+
+-- all about me, me, me, The individual was the centre of Enlightenment story.
 
 I am because we are, and since we are, therefore I am
 

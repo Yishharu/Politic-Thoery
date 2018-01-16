@@ -74,6 +74,25 @@ Only discover your identity by reference to you group into which you were born a
 
 **Hope Ubantu wasn't corrupted by the Enlightenment project !!!**
 
+#### Other Communitarians
+##### Michael Sandel
+- Liberalism and the Limits of Justice (1982)
+- "The Procedural Republic and the Unencumbered Self" (1984)
+- What Money Can't Buy: The Moral Limits of Markets (2012)
+
+##### Charles Taylor
+- Hegal and Modern Society (1979)
+- Source of the Self (1992)  (Ubantu-like)
+
+##### Richard Rorly
+- Philosophy and the Mirror of Nature (1979)  (How The Enlightenment project in metaphysics had to fail)
+- "Postmodernist Bourgeois Liberalism" (1983)
+
+##### Michael Walzer
+- Speres of Justice (1983)
+- Interpretation and Social Criticism (1987)
+
+
 
 
 

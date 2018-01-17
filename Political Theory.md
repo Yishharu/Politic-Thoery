@@ -75,7 +75,7 @@ Only discover your identity by reference to you group into which you were born a
 **Hope Ubantu wasn't corrupted by the Enlightenment project !!!**
 
 #### Other Communitarians
-##### Michael Sandel
+##### Michael Sandel (Utilitarianism give the good a bad name)
 - Liberalism and the Limits of Justice (1982)
 - "The Procedural Republic and the Unencumbered Self" (1984)
 - What Money Can't Buy: The Moral Limits of Markets (2012)
@@ -88,11 +88,21 @@ Only discover your identity by reference to you group into which you were born a
 - Philosophy and the Mirror of Nature (1979)  (How The Enlightenment project in metaphysics had to fail)
 - "Postmodernist Bourgeois Liberalism" (1983)
 
-##### Michael Walzer
-- Speres of Justice (1983)
+##### Michael Walzer   
+- Speres of Justice (1983)   (leaning on Aristotle)
 - Interpretation and Social Criticism (1987)
 
+### Maclntyre: What was the Enlightment project that had to fail?
+"Justifying morality"  -> Deriving moral precepts we find appealing from a scientific account of the human condition. The science is going to produce a morality that justifies individual rights.
+> Rousseau, Social Contract
+> "... taking men as they are and laws as they might be"
+paradigm case of a programmatic statement of the Enlightment
+>Bentham, pleasure seeking and pain avoidance guides human behavior, let's come up with principles bad on that.
+Utilitarianism can justify, but with many things that we're deeply uncommfortable with, genocide etc. Nozick or others, take human behavior as we find it, turn into principle, end is unsatisfying. Why? Cuz We have inherited the precepts of ethics from older tradition (Aristotelian). Taking on the Enlightment, we've abandoned the intellectual framework within which it make sense.
+> Aristotle's Teleological Scheme, After Virtue, pp. 52-3
+> a threefold scheme in which human nature as it happens to be. Human nature in its untutored state, human beings as we find >them in the world is initially discrepant and discordant with the precepts of ethic and needs to be transformed by the >instruction of practical reason and ex, and experience into human nature as it could be if it realized its telos. We are >malleable creatures, we are plastic creatures, we are shaped. And ethics is about how to shape us. It's not derived from how >we start out, right? Each of the three elements in the scheme, the conception of untutored human nature, the conception of >the precepts of irrational ethics and the conception of human nature as it could be if it realized its telos. Requires >reference to the other two if its status and function are to be intelligible
+ethics is about how to creat people who can realize the potential for virtue. So can't derive it from the start. (People do lack virtues) Lots of Plato and Aristotle's ethic do with education, while Bentham, Rawls or Nozick say nothing to education. Begining and end of story about human psychology. **Aristotle, A teleological picture of human psychology** People like raw clay, it can be shaped, malleable.  
 
-
-
+The Hopelessness of the Enlightenment Project  After Virtue, p.55
+Since the moral injunctions were originally at home in a scheme in which their purpose was to correct, improve and educate human nature, they're clearly not going to be such as could be deduced from true statements about human nature. They were there to change human nature. Or justified in some other way by appealing to its characteristics. The injunctions of morality thus understood, are likely to be ones that human nature, thus understood, has strong tendencies to disobey, right? So things we're not going to be inclined to do, contra benta, right? Hence the 18th century moral philosophists engaged what was, in what was inevitably an unsuccessful project. For they did, indeed, attempt to find a rational basis for their moral beliefs in a particular understanding of human nature, while inheriting a set of moral injunctions on one hand and a conception of human nature of the other which had been expressly designed to be discrepant with one another. Discrepant with one another. **They inherited incoherent fragments of a once coherent scheme of thought and action and, since they did not recognize their own peculiar historical and cultural situation, they could not recognize the impossible and quixotic character of their own self-appointed task.**
 

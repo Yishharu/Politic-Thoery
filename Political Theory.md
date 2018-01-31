@@ -107,3 +107,24 @@ Ethics is about how to creat people who can realize the potential for virtue. So
 The Hopelessness of the Enlightenment Project  After Virtue, p.55
 Since the moral injunctions were originally at home in a scheme in which their purpose was to correct, improve and educate human nature, they're clearly not going to be such as could be deduced from true statements about human nature. They were there to change human nature. Or justified in some other way by appealing to its characteristics. The injunctions of morality thus understood, are likely to be ones that human nature, thus understood, has strong tendencies to disobey, right? So things we're not going to be inclined to do, contra benta, right? Hence the 18th century moral philosophists engaged what was, in what was inevitably an unsuccessful project. For they did, indeed, attempt to find a rational basis for their moral beliefs in a particular understanding of human nature, while inheriting a set of moral injunctions on one hand and a conception of human nature of the other which had been expressly designed to be discrepant with one another. Discrepant with one another. **They inherited incoherent fragments of a once coherent scheme of thought and action and, since they did not recognize their own peculiar historical and cultural situation, they could not recognize the impossible and quixotic character of their own self-appointed task.**
 
+## Concluding Anti-Enlightenment Thought ##
+Contro Aristotle, we reason about ends as well as means. Maclntyre historicizes the Aristotelian tradition, the virtues that are affirmed than tradition evolve over time. (while Aristotle just deliberate the means, take the ens the virtue as timeless universals)
+
+Contro Burke, tradition noursih disagreement
+
+Tradition bound reason ranges over empirical and normative understanding
+
+- explain to a child that the world doesn't fall down beause a gaint holds it up
+- Part of being a Jew involes arguing about what is means to be a Jew.
+
+We have abandoned historicized Aristitelianism in favor of the chimerical Enlightenment Projecct
+Maclntyre
+- Causal account of the social world
+(naive history of moral disgreement; Hopeless on conflict; Vapid prescriptions)
+- Sructure of human psychology
+(Teleological; Development, Intrinsically other-referential)
+
+Neo-Aritotle, close today's human psychology, behavioral psychologist(Paul Bloom)
+
+Rejecting Science
+Decentering individual

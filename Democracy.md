@@ -21,3 +21,14 @@ Fear of Majority Tyranny (Republic)
 
 Politics based on science?
 Respect for individual rights?
+
+American founders were so distrustful of the idea of majortiy rule that they constructed these instuitions to hem it in and make it very difficulty for the majority to function.  
+
+## In search of General Will
+
+> there is often a great difference between the will of all and the general will; the general will studies only the common interest while the will of all studies private interest, and is indeed no more than the sum of individual desires. But if we take away from all these same wills, the pluses and minuses which cancel each other out, the balance which remains is the general will. 
+>
+> *-- Jean-Jacques Rousseau, Social Contract*
+
+Voting cycle paradox
+

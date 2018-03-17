@@ -46,6 +46,13 @@ in sum, the most persuasive point of view prevails
 ##### a little bit demanding
 - Assume it is possible for people to agree about political fundamentals
 - Assume people are motivated to agree about political fundamentals
+“Overlapping consensus” gives up on reasons(Rawls, Sunstein, Sen)
 
+### Deliberation can undermine agreement
+- Marriage Therapy
+- Marx on consciousness raising
+- “Gag rules” and taking things of the table   
+(Stephen Holmes, get religious out of politics, it's too intense, if people trying to be brought to agree on these things, all you get is war, wars of religion 17th century)
+(1872 after civil war, Democratic Party, let do not reopen any questions, and draw a line and move on; Republic Party, they should be cordially sustained becaseu they are right, not merely law)
 
 

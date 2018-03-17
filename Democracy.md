@@ -32,3 +32,20 @@ American founders were so distrustful of the idea of majortiy rule that they con
 
 Voting cycle paradox
 
+## Habermas' Deliberative Ideal
+
+Solution:
+- Deliberation, manufacturing the general will rather than discovering it.
+
+#### Habermas' ideal speech situation
+1. everyone has an equal opportuinity to participate
+2. everyone is free to assert, defend, or question any fractual or normative claim
+3. no one can be coerced into curtailing the rights specified in 1 & 2
+4. everyone is motivated solely by the desire to reach an agreement about the truth of statements and the validity of norms
+in sum, the most persuasive point of view prevails
+##### a little bit demanding
+- Assume it is possible for people to agree about political fundamentals
+- Assume people are motivated to agree about political fundamentals
+
+
+

@@ -1,10 +1,10 @@
 # Democracy
-Republicanism v. Democracy
+## 1. Republicanism v. Democracy
 - From Enlightenment potilical theories, utilitarian, Marxist, Social Contract, based on scientific principles,it will vindicate individual freedom by doctine of individual rights
 - Anti-Enlightenment, human beings are products of their histories and contexts and their pschologies are intrinsically connected to others in ways that are under estimated by Enlightment thinkers.
 => Democratic tradition delivers better on a chastened enlightenment view.
 
-## Defination of Democracy
+#### Defination of Democracy
 - Rule by the people; Majority rule; The general will; Equal power; Political competition; Non-domination; Principle of affected interest (against patriarchal or military system); Seems people identify it with all good things??
 - A family resemblance concept (Less demanding than the idea of universal defination)
 Democracy made famous by its critics~~
@@ -24,7 +24,7 @@ Respect for individual rights?
 
 American founders were so distrustful of the idea of majortiy rule that they constructed these instuitions to hem it in and make it very difficulty for the majority to function.  
 
-## In search of General Will
+## 2. In search of General Will
 
 > there is often a great difference between the will of all and the general will; the general will studies only the common interest while the will of all studies private interest, and is indeed no more than the sum of individual desires. But if we take away from all these same wills, the pluses and minuses which cancel each other out, the balance which remains is the general will. 
 >
@@ -32,7 +32,7 @@ American founders were so distrustful of the idea of majortiy rule that they con
 
 Voting cycle paradox
 
-## Habermas' Deliberative Ideal
+#### Habermas' Deliberative Ideal
 
 Solution:
 - Deliberation, manufacturing the general will rather than discovering it.
@@ -48,11 +48,31 @@ in sum, the most persuasive point of view prevails
 - Assume people are motivated to agree about political fundamentals
 “Overlapping consensus” gives up on reasons(Rawls, Sunstein, Sen)
 
-### Deliberation can undermine agreement
+#### Deliberation can undermine agreement
 - Marriage Therapy
 - Marx on consciousness raising
 - “Gag rules” and taking things of the table   
 (Stephen Holmes, get religious out of politics, it's too intense, if people trying to be brought to agree on these things, all you get is war, wars of religion 17th century)
 (1872 after civil war, Democratic Party, let do not reopen any questions, and draw a line and move on; Republic Party, they should be cordially sustained becaseu they are right, not merely law)
+
+#### Deliberation in the Real World
+Truth, not agreement  (We could get Truth like Science, not agreement)
+Deliberative polls -- Fishkin (randomly select people, depth discussion, in case of ignorance, good sample for politicians)
+Problem (*Demo, who to choose, agenda control*, famous political economist Gerald Kramer, extended Arrow's theorem, showing if you let me control the agenda, I can produce any outcome you want, *Framing, dont converge on truth*, deliberation sometimes more extreme)  
+W isdom of crowds, not biased by some people with strong personality (male)
+
+## 3. Majority Rule (Democratic Competition)
+> Ambition is counteracting ambion, you divide up power. *-- Madison*
+* The Westminster System in Practice  
+(the monetary denomications is much smaller hehe)  
+majority rule .vs. individual rights?
+
+
+
+
+
+
+
+
 
 
